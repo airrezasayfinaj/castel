@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Castel\Desktop\for git persian\datetimeamir.cs" Link="datetimeamir.cs" />
+    <Compile Include="C:\Users\Castel\Desktop\for git persian\PersianDateTimeAmir.cs" Link="PersianDateTimeAmir.cs" />
+  </ItemGroup>
+
+</Project>
